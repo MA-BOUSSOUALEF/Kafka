@@ -42,17 +42,7 @@ Apache Kafka est une plateforme logicielle open source conçue pour[1][3]:
 - Outil de coordination pour Kafka
 - Note : Kafka migre vers une architecture sans Zookeeper (KRaft mode)[6]
 
-## Installation et configuration
 
-(À compléter avec les instructions d'installation)
-
-## Utilisation
-
-(À compléter avec des exemples d'utilisation)
-
-## Contribuer
-
-Les contributions sont les bienvenues ! Veuillez consulter le fichier CONTRIBUTING.md pour plus de détails.
 
 ## Licence
 
